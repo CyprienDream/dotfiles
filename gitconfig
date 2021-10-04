@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = cipri.eckert@hotmail.fr
+	name = Cyprien Eckert
